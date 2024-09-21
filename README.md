@@ -1,2 +1,0 @@
-# zurcher.github.io
-Portfolio
